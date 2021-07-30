@@ -6,23 +6,23 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Arian Naseh
+name: Nina Haghighati
 title: Data Scientist, Machine Learning Engineer
-email: a.nasehzade@gmail.com
-website: ariannsz.github.io
+email: haghighati.narges@gmail.com
+website: Nina-Hgh.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: arianNsz
-github_username:  arianNsz
+#twitter_username: arianNsz
+github_username:  Nina-Hgh
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-#instagram_username: jameswgrant
-linkedin_username: arian-naseh
+instagram_username: narges_canada
+linkedin_username: nina-haghighati
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -38,9 +38,7 @@ additional_links:
 - title: Kaggle
   icon: fab fa-kaggle
   url: https://www.kaggle.com/ariannsz
-- title: Google Scholar
-  icon: fas fa-graduation-cap
-  url: https://scholar.google.com/citations?hl=en&user=smpsVvcAAAAJ
+
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
